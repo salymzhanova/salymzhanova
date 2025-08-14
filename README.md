@@ -9,6 +9,12 @@ Senior QA Engineer | Automation & Manual Testing Expert
 
 ---
 
+## 📌 Featured Projects
+*(These will update as I complete them)*  
+[QA UI Automation with Python + Playwright](https://github.com/salymzhanova/qa-ui-playwright-python) – Automated UI tests with CI/CD.
+
+---
+
 ## 🛠 Skills & Tools
 - **Languages:** Python, JavaScript, SQL, Java  
 - **Testing & QA:** Manual QA, Exploratory Testing, Test Planning, Regression Testing, API & Performance Testing, Localization, Accessibility  
