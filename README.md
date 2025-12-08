@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 **QA Engineer → Automation Engineer in progress**  
+💻 **QA Engineer**  
 Senior QA Engineer | Automation & Manual Testing Expert  
 7+ years of experience in manual and automation testing, specializing in Agile methodologies. Skilled in **Python, Java, Selenium, Playwright, API testing**, and **CI/CD integration**. Known for cross-functional collaboration, critical thinking, and driving high-quality software delivery.  
 
