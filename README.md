@@ -18,7 +18,6 @@ Senior QA Engineer | Automation & Manual Testing Expert
 
 ---
 
-## 📌 Featured Projects
 [UI Automation with Python and Playwright Demo](https://github.com/salymzhanova/qa-ui-playwright-python) – Automated UI tests with CI/CD.
 <br>[API Automation with Python Demo](https://github.com/salymzhanova/qa-api-python) - Automated API tests with CI/CD.
 <br>[Rest Assured API Testing Demo](https://github.com/salymzhanova/qa-api-python) - Java Rest Assured API tests.
