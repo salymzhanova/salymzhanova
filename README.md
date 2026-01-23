@@ -2,19 +2,11 @@
 
 💻 **QA Engineer**  
 Senior QA Engineer | Automation & Manual Testing Expert  
-7+ years of experience in manual and automation testing, specializing in Agile methodologies. Skilled in **Python, Java, Selenium, Playwright, API testing**, and **CI/CD integration**. Known for cross-functional collaboration, critical thinking, and driving high-quality software delivery.  
+8 years of experience in manual and automation testing, specializing in Agile methodologies. Skilled in **Python, Java, Selenium, Playwright, API testing**, and **CI/CD integration**. Known for cross-functional collaboration, critical thinking, and driving high-quality software delivery.  
 
 🚀 Building test automation skills in **Python**, **Playwright**, and **API testing**.  
 🤖 Exploring **AI-assisted testing** and **ML model validation**.
 
----
-
-## 📌 Featured Projects
-*(These will update as I complete them)*  
-[QA UI Automation with Python + Playwright](https://github.com/salymzhanova/qa-ui-playwright-python) – Automated UI tests with CI/CD.
-<br>[QA API Automation with Python](https://github.com/salymzhanova/qa-api-python) - Automated API tests with CI/CD.
-
----
 
 ## 🛠 Skills & Tools
 - **Languages:** Python, JavaScript, SQL, Java  
@@ -24,8 +16,19 @@ Senior QA Engineer | Automation & Manual Testing Expert
 - **CI/CD & DevOps:** GitHub Actions, Jenkins, Docker  
 - **Other:** Agile methodologies, Cross-functional collaboration
 
+---
+
+## 📌 Featured Projects
+[UI Automation with Python and Playwright Demo](https://github.com/salymzhanova/qa-ui-playwright-python) – Automated UI tests with CI/CD.
+<br>[API Automation with Python Demo](https://github.com/salymzhanova/qa-api-python) - Automated API tests with CI/CD.
+<br>[Rest Assured API Testing Demo](https://github.com/salymzhanova/qa-api-python) - Java Rest Assured API tests.
+
+---
+
 📫 **How to reach me:**  
 [LinkedIn](https://linkedin.com/in/alymzhanova) • [Email](mailto:salymzhanova@gmail.com)
+
+
 
 <!--
 **salymzhanova/salymzhanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
