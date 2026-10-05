@@ -1,19 +1,16 @@
 ## Hi there 👋
 
 💻 **QA Engineer**  
-Senior QA Engineer | Automation & Manual Testing Expert  
-8 years of experience in manual and automation testing, specializing in Agile methodologies. Skilled in **Python, Java, Selenium, Playwright, API testing**, and **CI/CD integration**. Known for cross-functional collaboration, critical thinking, and driving high-quality software delivery.  
-
-🚀 Building test automation skills in **Python**, **Playwright**, and **API testing**.  
-🤖 Exploring **AI-assisted testing** and **ML model validation**.
+QA Engineer | Automation & Manual Testing   
+8 years of experience in manual and automation testing, specializing in Agile methodologies. Skilled in **Python, Java, Selenium, API testing**, and **CI/CD**.  
 
 
 ## 🛠 Skills & Tools
 - **Languages:** Python, JavaScript, SQL, Java  
 - **Testing & QA:** Manual QA, Exploratory Testing, Test Planning, Regression Testing, API & Performance Testing, Localization, Accessibility  
-- **Automation Tools:** Selenium, Playwright, Pytest, Postman, Internal Test Tools  
-- **Data & Analytics:** SQL, Mode, Splunk, AI/ML-assisted testing  
-- **CI/CD & DevOps:** GitHub Actions, Jenkins, Docker  
+- **Automation Tools:** Selenium, Pytest, Postman, Internal Test Tools  
+- **Data & Analytics:** SQL, Mode, Splunk, GenAI & Productivity Tools  
+- **CI/CD & DevOps:** GitHub Actions, Jenkins  
 - **Other:** Agile methodologies, Cross-functional collaboration
 
 ---
