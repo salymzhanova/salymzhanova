@@ -15,9 +15,7 @@ QA Engineer | Automation & Manual Testing
 
 ---
 [austin-311-dashboard](https://github.com/salymzhanova/austin-311-dashboard) 
-<br>[UI Automation with Python and Playwright Demo](https://github.com/salymzhanova/qa-ui-playwright-python) – Automated UI tests with CI/CD.
-<br>[API Automation with Python Demo](https://github.com/salymzhanova/qa-api-python) - Automated API tests with CI/CD.
-<br>[Rest Assured API Testing Demo](https://github.com/salymzhanova/rest-assured-demo) - Java Rest Assured API tests.
+<br>
 
 ---
 
